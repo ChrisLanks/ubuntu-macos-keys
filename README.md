@@ -51,3 +51,11 @@ Change icons theme to cupertino-mojave
 # Background
 http://wallpapersimages.info/wp-content/uploads/HTML/Gif-Wallpapers-Mac/Gif-Wallpapers-Mac-59.html
 # Download slingscold to mimic app launcher
+
+# Visual Studio
+Add to keybindings.json
+// Place your key bindings in this file to override the defaults
+[
+  { "key": "ctrl+c", "command": "workbench.action.terminal.copySelection", "when": "terminalFocus && terminalTextSelected" },
+  { "key": "ctrl+v", "command": "workbench.action.terminal.paste", "when": "terminalFocus" }
+] 

@@ -1,5 +1,4 @@
 # Enter script code
 
-# Do Nothint
-
+# Do Nothing
           
