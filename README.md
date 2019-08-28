@@ -59,3 +59,19 @@ Add to keybindings.json
   { "key": "ctrl+c", "command": "workbench.action.terminal.copySelection", "when": "terminalFocus && terminalTextSelected" },
   { "key": "ctrl+v", "command": "workbench.action.terminal.paste", "when": "terminalFocus" }
 ] 
+
+
+# Window Manager Settings (right click main bar on an app and find window manager settings)
+
+## Task Switcher - Alt tab affect:
+1. Large Icons
+
+## Screen Edges:
+Switch desktop on edge: Only When Moving Windows
+
+## KWin Scripts:
+1. MACsimize
+1. MinimizeAll
+
+
+
