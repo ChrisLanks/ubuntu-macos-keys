@@ -31,8 +31,8 @@ win l -> lock screen (I swapped mac to the same from old habbits)
 ctrl + shift + esc for system activity
 win + tab for desktop
 ctrl+tab for activities
-f11 for desktop
-f12 for all windows
+ctrl+up for all open programs
+ctrl+down to show virtual desktops
 
 ## Install albert to mimic alfred
 alt+space -> run command albert toggle
@@ -51,6 +51,7 @@ Change icons theme to cupertino-mojave
 # Background
 http://wallpapersimages.info/wp-content/uploads/HTML/Gif-Wallpapers-Mac/Gif-Wallpapers-Mac-59.html
 # Download slingscold to mimic app launcher
+# Update terminal to have tabs on top (not bottom, in konsole settings).
 
 # Visual Studio
 Add to keybindings.json
